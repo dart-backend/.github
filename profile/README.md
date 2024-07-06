@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+This is a collection of all the repositories related to Angel3 framework. The `belatuk` series are packages that can commonly be used for building dart backend. They are mostly utilities and drivers from projects have been archived or no longer actively maintained. Since many hours have gone into creating these packages, they are pretty stable and can continue to be enhanced and upgraded without having to spend a lot of time to rebuild them from scratch. The most common symptoms in software development seems to be reinventing the wheels. For any open sources projecs, time is a limited commodity. Unless there is an adundance capital at one's disposal, starting over from scratch often produces little gain. Hence, I took over the maintenance of Angel3 framework and keep it upgraded and enhanced with Dart SDK upgrade. Long term goal is to get it into self-sustainable mode.  
+
+
 <!--
 
 **Here are some ideas to get you started:**
